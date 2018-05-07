@@ -1,2 +1,7 @@
 # Automatic-Indian-Number-Plate-Recognition-System
-This program reads the number plate by using image recognition and displays output.
+
+
+Built Using:
+  1)Python 2.7
+  2)OpenCV 3.0.0
+  3)MySQL 
